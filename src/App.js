@@ -5,7 +5,7 @@ import Question from "./Question"
 const App=() =>{
   return (
     <div className="App">
-    
+    <Question/>
     </div>
   );
 }
