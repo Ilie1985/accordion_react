@@ -6,10 +6,9 @@ import { AiOutlineMinus, AiOutlinePlus } from 'react-icons/ai';
 
 const Question = () => {
   return (
-    <div>
-      <AiOutlineMinus/>
-      <AiOutlinePlus/>
-    </div>
+    <h2>
+      question component
+    </h2>
   )
 }
 
